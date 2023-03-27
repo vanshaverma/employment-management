@@ -1,0 +1,26 @@
+2023-03-27 12:42:47 [restartedMain] INFO  c.deloitte.ms.MyProjectApplication -
+				Starting MyProjectApplication using Java 17.0.6 with PID 14064 (C:\Users\vanshverma\Downloads\EmployeeManagement\EmployeeManagement\target\classes started by vanshverma in C:\Users\vanshverma\Downloads\EmployeeManagement\EmployeeManagement)
+2023-03-27 12:42:47 [restartedMain] DEBUG c.deloitte.ms.MyProjectApplication -
+				Running with Spring Boot v3.0.4, Spring v6.0.6
+2023-03-27 12:42:47 [restartedMain] INFO  c.deloitte.ms.MyProjectApplication -
+				No active profile set, falling back to 1 default profile: "default"
+2023-03-27 12:42:51 [restartedMain] INFO  c.deloitte.ms.MyProjectApplication -
+				Started MyProjectApplication in 4.854 seconds (process running for 5.973)
+2023-03-27 12:43:59 [http-nio-9090-exec-7] DEBUG com.deloitte.ms.EmployeeController -
+				Data stored in database
+2023-03-27 13:27:58 [main] INFO  c.d.ms.MyProjectApplicationTests -
+				Starting MyProjectApplicationTests using Java 17.0.6 with PID 8704 (started by vanshverma in C:\Users\vanshverma\Downloads\EmployeeManagement\EmployeeManagement)
+2023-03-27 13:27:58 [main] DEBUG c.d.ms.MyProjectApplicationTests -
+				Running with Spring Boot v3.0.4, Spring v6.0.6
+2023-03-27 13:27:58 [main] INFO  c.d.ms.MyProjectApplicationTests -
+				No active profile set, falling back to 1 default profile: "default"
+2023-03-27 13:28:03 [main] INFO  c.d.ms.MyProjectApplicationTests -
+				Started MyProjectApplicationTests in 5.459 seconds (process running for 7.308)
+2023-03-27 13:55:24 [restartedMain] INFO  c.deloitte.ms.MyProjectApplication -
+				Starting MyProjectApplication using Java 17.0.6 with PID 17592 (C:\Users\vanshverma\Downloads\EmployeeManagement\EmployeeManagement\target\classes started by vanshverma in C:\Users\vanshverma\Downloads\EmployeeManagement\EmployeeManagement)
+2023-03-27 13:55:24 [restartedMain] DEBUG c.deloitte.ms.MyProjectApplication -
+				Running with Spring Boot v3.0.4, Spring v6.0.6
+2023-03-27 13:55:24 [restartedMain] INFO  c.deloitte.ms.MyProjectApplication -
+				No active profile set, falling back to 1 default profile: "default"
+2023-03-27 13:55:28 [restartedMain] INFO  c.deloitte.ms.MyProjectApplication -
+				Started MyProjectApplication in 4.082 seconds (process running for 5.622)

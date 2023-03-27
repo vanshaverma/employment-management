@@ -1,0 +1,24 @@
+2023-03-24 19:40:41 [SpringApplicationShutdownHook] ERROR o.h.e.jdbc.spi.SqlExceptionHelper -
+				Database is already closed (to disable automatic closing at VM shutdown, add ";DB_CLOSE_ON_EXIT=FALSE" to the db URL) [90121-214]
+2023-03-24 19:40:41 [SpringApplicationShutdownHook] ERROR o.h.e.jdbc.spi.SqlExceptionHelper -
+				Database is already closed (to disable automatic closing at VM shutdown, add ";DB_CLOSE_ON_EXIT=FALSE" to the db URL) [90121-214]
+2023-03-24 19:54:25 [SpringApplicationShutdownHook] ERROR o.h.e.jdbc.spi.SqlExceptionHelper -
+				Database is already closed (to disable automatic closing at VM shutdown, add ";DB_CLOSE_ON_EXIT=FALSE" to the db URL) [90121-214]
+2023-03-24 19:54:25 [SpringApplicationShutdownHook] ERROR o.h.e.jdbc.spi.SqlExceptionHelper -
+				Database is already closed (to disable automatic closing at VM shutdown, add ";DB_CLOSE_ON_EXIT=FALSE" to the db URL) [90121-214]
+2023-03-24 19:55:32 [SpringApplicationShutdownHook] ERROR o.h.e.jdbc.spi.SqlExceptionHelper -
+				Database is already closed (to disable automatic closing at VM shutdown, add ";DB_CLOSE_ON_EXIT=FALSE" to the db URL) [90121-214]
+2023-03-24 19:55:32 [SpringApplicationShutdownHook] ERROR o.h.e.jdbc.spi.SqlExceptionHelper -
+				Database is already closed (to disable automatic closing at VM shutdown, add ";DB_CLOSE_ON_EXIT=FALSE" to the db URL) [90121-214]
+2023-03-24 20:00:33 [SpringApplicationShutdownHook] ERROR o.h.e.jdbc.spi.SqlExceptionHelper -
+				Database is already closed (to disable automatic closing at VM shutdown, add ";DB_CLOSE_ON_EXIT=FALSE" to the db URL) [90121-214]
+2023-03-24 20:00:33 [SpringApplicationShutdownHook] ERROR o.h.e.jdbc.spi.SqlExceptionHelper -
+				Database is already closed (to disable automatic closing at VM shutdown, add ";DB_CLOSE_ON_EXIT=FALSE" to the db URL) [90121-214]
+2023-03-24 20:02:14 [SpringApplicationShutdownHook] ERROR o.h.e.jdbc.spi.SqlExceptionHelper -
+				Database is already closed (to disable automatic closing at VM shutdown, add ";DB_CLOSE_ON_EXIT=FALSE" to the db URL) [90121-214]
+2023-03-24 20:02:14 [SpringApplicationShutdownHook] ERROR o.h.e.jdbc.spi.SqlExceptionHelper -
+				Database is already closed (to disable automatic closing at VM shutdown, add ";DB_CLOSE_ON_EXIT=FALSE" to the db URL) [90121-214]
+2023-03-24 20:07:11 [SpringApplicationShutdownHook] ERROR o.h.e.jdbc.spi.SqlExceptionHelper -
+				Database is already closed (to disable automatic closing at VM shutdown, add ";DB_CLOSE_ON_EXIT=FALSE" to the db URL) [90121-214]
+2023-03-24 20:07:11 [SpringApplicationShutdownHook] ERROR o.h.e.jdbc.spi.SqlExceptionHelper -
+				Database is already closed (to disable automatic closing at VM shutdown, add ";DB_CLOSE_ON_EXIT=FALSE" to the db URL) [90121-214]

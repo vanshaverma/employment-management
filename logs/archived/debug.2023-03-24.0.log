@@ -1,0 +1,64 @@
+2023-03-24 19:27:51 [restartedMain] INFO  c.deloitte.ms.MyProjectApplication -
+				Starting MyProjectApplication using Java 17.0.6 with PID 2432 (C:\Users\vanshverma\Downloads\EmployeeManagement\EmployeeManagement\target\classes started by vanshverma in C:\Users\vanshverma\Downloads\EmployeeManagement\EmployeeManagement)
+2023-03-24 19:27:51 [restartedMain] DEBUG c.deloitte.ms.MyProjectApplication -
+				Running with Spring Boot v3.0.4, Spring v6.0.6
+2023-03-24 19:27:51 [restartedMain] INFO  c.deloitte.ms.MyProjectApplication -
+				No active profile set, falling back to 1 default profile: "default"
+2023-03-24 19:27:53 [restartedMain] INFO  c.deloitte.ms.MyProjectApplication -
+				Started MyProjectApplication in 2.285 seconds (process running for 426.282)
+2023-03-24 19:28:33 [restartedMain] INFO  c.deloitte.ms.MyProjectApplication -
+				Starting MyProjectApplication using Java 17.0.6 with PID 2432 (C:\Users\vanshverma\Downloads\EmployeeManagement\EmployeeManagement\target\classes started by vanshverma in C:\Users\vanshverma\Downloads\EmployeeManagement\EmployeeManagement)
+2023-03-24 19:28:33 [restartedMain] DEBUG c.deloitte.ms.MyProjectApplication -
+				Running with Spring Boot v3.0.4, Spring v6.0.6
+2023-03-24 19:28:33 [restartedMain] INFO  c.deloitte.ms.MyProjectApplication -
+				No active profile set, falling back to 1 default profile: "default"
+2023-03-24 19:28:34 [restartedMain] INFO  c.deloitte.ms.MyProjectApplication -
+				Started MyProjectApplication in 0.925 seconds (process running for 466.857)
+2023-03-24 19:29:24 [restartedMain] INFO  c.deloitte.ms.MyProjectApplication -
+				Starting MyProjectApplication using Java 17.0.6 with PID 33488 (C:\Users\vanshverma\Downloads\EmployeeManagement\EmployeeManagement\target\classes started by vanshverma in C:\Users\vanshverma\Downloads\EmployeeManagement\EmployeeManagement)
+2023-03-24 19:29:24 [restartedMain] DEBUG c.deloitte.ms.MyProjectApplication -
+				Running with Spring Boot v3.0.4, Spring v6.0.6
+2023-03-24 19:29:24 [restartedMain] INFO  c.deloitte.ms.MyProjectApplication -
+				No active profile set, falling back to 1 default profile: "default"
+2023-03-24 19:29:35 [restartedMain] INFO  c.deloitte.ms.MyProjectApplication -
+				Started MyProjectApplication in 11.083 seconds (process running for 13.337)
+2023-03-24 19:32:52 [restartedMain] INFO  c.deloitte.ms.MyProjectApplication -
+				Starting MyProjectApplication using Java 17.0.6 with PID 33532 (C:\Users\vanshverma\Downloads\EmployeeManagement\EmployeeManagement\target\classes started by vanshverma in C:\Users\vanshverma\Downloads\EmployeeManagement\EmployeeManagement)
+2023-03-24 19:32:52 [restartedMain] DEBUG c.deloitte.ms.MyProjectApplication -
+				Running with Spring Boot v3.0.4, Spring v6.0.6
+2023-03-24 19:32:52 [restartedMain] INFO  c.deloitte.ms.MyProjectApplication -
+				No active profile set, falling back to 1 default profile: "default"
+2023-03-24 19:32:56 [restartedMain] INFO  c.deloitte.ms.MyProjectApplication -
+				Started MyProjectApplication in 4.601 seconds (process running for 5.582)
+2023-03-24 19:33:03 [http-nio-9090-exec-1] DEBUG com.deloitte.ms.EmployeeController -
+				Data stored in database
+2023-03-24 19:40:36 [main] INFO  c.d.ms.MyProjectApplicationTests -
+				Starting MyProjectApplicationTests using Java 17.0.6 with PID 7356 (started by vanshverma in C:\Users\vanshverma\Downloads\EmployeeManagement\EmployeeManagement)
+2023-03-24 19:40:36 [main] DEBUG c.d.ms.MyProjectApplicationTests -
+				Running with Spring Boot v3.0.4, Spring v6.0.6
+2023-03-24 19:40:36 [main] INFO  c.d.ms.MyProjectApplicationTests -
+				No active profile set, falling back to 1 default profile: "default"
+2023-03-24 19:40:41 [main] INFO  c.d.ms.MyProjectApplicationTests -
+				Started MyProjectApplicationTests in 5.055 seconds (process running for 6.749)
+2023-03-24 19:54:19 [main] INFO  c.d.ms.MyProjectApplicationTests -
+				Starting MyProjectApplicationTests using Java 17.0.6 with PID 33288 (started by vanshverma in C:\Users\vanshverma\Downloads\EmployeeManagement\EmployeeManagement)
+2023-03-24 19:54:19 [main] DEBUG c.d.ms.MyProjectApplicationTests -
+				Running with Spring Boot v3.0.4, Spring v6.0.6
+2023-03-24 19:54:19 [main] INFO  c.d.ms.MyProjectApplicationTests -
+				No active profile set, falling back to 1 default profile: "default"
+2023-03-24 19:54:24 [main] INFO  c.d.ms.MyProjectApplicationTests -
+				Started MyProjectApplicationTests in 5.425 seconds (process running for 7.217)
+2023-03-24 19:55:26 [main] INFO  c.d.ms.MyProjectApplicationTests -
+				Starting MyProjectApplicationTests using Java 17.0.6 with PID 16932 (started by vanshverma in C:\Users\vanshverma\Downloads\EmployeeManagement\EmployeeManagement)
+2023-03-24 19:55:26 [main] DEBUG c.d.ms.MyProjectApplicationTests -
+				Running with Spring Boot v3.0.4, Spring v6.0.6
+2023-03-24 19:55:26 [main] INFO  c.d.ms.MyProjectApplicationTests -
+				No active profile set, falling back to 1 default profile: "default"
+2023-03-24 19:55:31 [main] INFO  c.d.ms.MyProjectApplicationTests -
+				Started MyProjectApplicationTests in 5.434 seconds (process running for 7.251)
+2023-03-24 20:00:27 [main] INFO  c.d.ms.MyProjectApplicationTests -
+				Starting MyProjectApplicationTests using Java 17.0.6 with PID 33284 (started by vanshverma in C:\Users\vanshverma\Downloads\EmployeeManagement\EmployeeManagement)
+2023-03-24 20:00:27 [main] DEBUG c.d.ms.MyProjectApplicationTests -
+				Running with Spring Boot v3.0.4, Spring v6.0.6
+2023-03-24 20:00:27 [main] INFO  c.d.ms.MyProjectApplicationTests -
+				No active profile set, falling back to 1 default profile: "default"

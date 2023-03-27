@@ -1,0 +1,64 @@
+2023-03-24 20:00:33 [main] INFO  c.d.ms.MyProjectApplicationTests -
+				Started MyProjectApplicationTests in 5.564 seconds (process running for 7.724)
+2023-03-24 20:02:08 [main] INFO  c.d.ms.MyProjectApplicationTests -
+				Starting MyProjectApplicationTests using Java 17.0.6 with PID 6532 (started by vanshverma in C:\Users\vanshverma\Downloads\EmployeeManagement\EmployeeManagement)
+2023-03-24 20:02:08 [main] DEBUG c.d.ms.MyProjectApplicationTests -
+				Running with Spring Boot v3.0.4, Spring v6.0.6
+2023-03-24 20:02:08 [main] INFO  c.d.ms.MyProjectApplicationTests -
+				No active profile set, falling back to 1 default profile: "default"
+2023-03-24 20:02:13 [main] INFO  c.d.ms.MyProjectApplicationTests -
+				Started MyProjectApplicationTests in 5.658 seconds (process running for 7.624)
+2023-03-24 20:07:05 [main] INFO  c.d.ms.MyProjectApplicationTests -
+				Starting MyProjectApplicationTests using Java 17.0.6 with PID 29164 (started by vanshverma in C:\Users\vanshverma\Downloads\EmployeeManagement\EmployeeManagement)
+2023-03-24 20:07:05 [main] DEBUG c.d.ms.MyProjectApplicationTests -
+				Running with Spring Boot v3.0.4, Spring v6.0.6
+2023-03-24 20:07:05 [main] INFO  c.d.ms.MyProjectApplicationTests -
+				No active profile set, falling back to 1 default profile: "default"
+2023-03-24 20:07:10 [main] INFO  c.d.ms.MyProjectApplicationTests -
+				Started MyProjectApplicationTests in 5.472 seconds (process running for 7.46)
+2023-03-24 20:14:59 [restartedMain] INFO  c.deloitte.ms.MyProjectApplication -
+				Starting MyProjectApplication using Java 17.0.6 with PID 31820 (C:\Users\vanshverma\Downloads\EmployeeManagement\EmployeeManagement\target\classes started by vanshverma in C:\Users\vanshverma\Downloads\EmployeeManagement\EmployeeManagement)
+2023-03-24 20:14:59 [restartedMain] DEBUG c.deloitte.ms.MyProjectApplication -
+				Running with Spring Boot v3.0.4, Spring v6.0.6
+2023-03-24 20:14:59 [restartedMain] INFO  c.deloitte.ms.MyProjectApplication -
+				No active profile set, falling back to 1 default profile: "default"
+2023-03-24 20:15:04 [restartedMain] INFO  c.deloitte.ms.MyProjectApplication -
+				Started MyProjectApplication in 5.156 seconds (process running for 6.498)
+2023-03-24 20:15:19 [http-nio-9090-exec-1] DEBUG com.deloitte.ms.EmployeeController -
+				Data stored in database
+2023-03-24 20:17:23 [http-nio-9090-exec-5] DEBUG com.deloitte.ms.EmployeeController -
+				Request: 200
+2023-03-24 20:17:23 [http-nio-9090-exec-5] DEBUG com.deloitte.ms.EmployeeController -
+				Response: Optional[Employee [id=200, firstName=Joshua, lastName=Patel, email=JPATEL, phoneNo=650.121.1894, doj=5-Jun-06, jobId=ST_CLERK, salary=2560]]
+2023-03-24 20:17:57 [http-nio-9090-exec-6] DEBUG com.deloitte.ms.EmployeeController -
+				New employee data created
+2023-03-24 20:18:29 [http-nio-9090-exec-7] DEBUG com.deloitte.ms.EmployeeController -
+				Request: 099
+2023-03-24 20:18:29 [http-nio-9090-exec-7] DEBUG com.deloitte.ms.EmployeeController -
+				Updated employee data: Employee [id=099, firstName=testFirstName, lastName=testLastName, email=test@Email, phoneNo=650.121.9262, doj=7-Aug-26, jobId=test_job, salary=9020]
+2023-03-24 20:18:56 [http-nio-9090-exec-8] DEBUG com.deloitte.ms.EmployeeController -
+				Request: 099
+2023-03-24 20:18:56 [http-nio-9090-exec-8] DEBUG com.deloitte.ms.EmployeeController -
+				Employee data deleted
+2023-03-24 21:41:41 [restartedMain] INFO  c.deloitte.ms.MyProjectApplication -
+				Starting MyProjectApplication using Java 17.0.6 with PID 18228 (C:\Users\vanshverma\Downloads\EmployeeManagement\EmployeeManagement\target\classes started by vanshverma in C:\Users\vanshverma\Downloads\EmployeeManagement\EmployeeManagement)
+2023-03-24 21:41:41 [restartedMain] DEBUG c.deloitte.ms.MyProjectApplication -
+				Running with Spring Boot v3.0.4, Spring v6.0.6
+2023-03-24 21:41:41 [restartedMain] INFO  c.deloitte.ms.MyProjectApplication -
+				No active profile set, falling back to 1 default profile: "default"
+2023-03-24 21:41:45 [restartedMain] INFO  c.deloitte.ms.MyProjectApplication -
+				Started MyProjectApplication in 4.169 seconds (process running for 5.039)
+2023-03-24 21:49:43 [http-nio-9090-exec-1] DEBUG com.deloitte.ms.EmployeeController -
+				Data stored in database
+2023-03-24 21:50:39 [http-nio-9090-exec-4] DEBUG com.deloitte.ms.EmployeeController -
+				Request: 200
+2023-03-24 21:50:39 [http-nio-9090-exec-4] DEBUG com.deloitte.ms.EmployeeController -
+				Response: Optional[Employee [id=200, firstName=Joshua, lastName=Patel, email=JPATEL, phoneNo=650.121.1894, doj=5-Jun-06, jobId=ST_CLERK, salary=2560]]
+2023-03-24 21:51:14 [http-nio-9090-exec-6] DEBUG com.deloitte.ms.EmployeeController -
+				New employee data created
+2023-03-24 21:51:49 [http-nio-9090-exec-7] DEBUG com.deloitte.ms.EmployeeController -
+				Request: 099
+2023-03-24 21:51:49 [http-nio-9090-exec-7] DEBUG com.deloitte.ms.EmployeeController -
+				Updated employee data: Employee [id=099, firstName=testFirstName, lastName=testLastName, email=test@Email, phoneNo=650.121.9262, doj=7-Aug-26, jobId=test_job, salary=9020]
+2023-03-24 21:52:26 [http-nio-9090-exec-8] DEBUG com.deloitte.ms.EmployeeController -
+				Request: 099
